@@ -1,4 +1,4 @@
-# Android SDK Ansible Role
+# Android SDK command line tools Ansible role
 
 The role is intended to install Android SDK command line tools and SDKs on Ubuntu, Windows and macOS machines.
 
