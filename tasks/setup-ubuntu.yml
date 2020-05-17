@@ -1,7 +1,9 @@
 ---
 - name: Instal dependencies
   apt:
-    name: openjdk-11-jdk
+    pkg: 
+    - openjdk-11-jdk
+    - unzip
     state: present
     update_cache: yes
 
